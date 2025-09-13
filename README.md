@@ -8,7 +8,7 @@ The dashboard provides insights into employee attrition patterns, demographics, 
 
 ## 📂 Project Files
 - `HR ATTRITION REPORT PROJECT.xlsx` → Excel workbook with data and dashboard  
-- `HRattrition.jpg` → Dashboard screenshot  
+- (https://github.com/berrina-data/HR-Attrition-Analysis/blob/main/HRattrition.jpg) → Dashboard screenshot  
 
 ---
 
